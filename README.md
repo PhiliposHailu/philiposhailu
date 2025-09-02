@@ -2,8 +2,13 @@
 > Software Engineer | Full Stack Developer | Tech Enthusiast  
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/kjFyZgX4rSZby/giphy.gif" height="300" alt="Cool Animation" />
+  <div style="background-color:#0d1117; padding:20px; border-radius:12px; display:inline-block;">
+    <img src="https://media3.giphy.com/media/kjFyZgX4rSZby/giphy.gif" 
+         alt="Cool Animation" 
+         width="600" />
+  </div>
 </p>
+
 
 ---
 
