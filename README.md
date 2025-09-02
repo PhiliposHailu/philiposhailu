@@ -1,13 +1,10 @@
 # Hello There, I'm [Your Name] 👋
 > Software Engineer | Full Stack Developer | Tech Enthusiast  
 
-<p align="center">
-  <div style="background-color:#0d1117; padding:20px; border-radius:12px; display:inline-block;">
-    <img src="https://media3.giphy.com/media/kjFyZgX4rSZby/giphy.gif" 
-         alt="Cool Animation" 
-         width="600" />
-  </div>
+<p align="center" style="background-color:#8B0000; padding:20px; border-radius:12px;">
+  <img src="https://media3.giphy.com/media/kjFyZgX4rSZby/giphy.gif" height="300" alt="Cool Animation" />
 </p>
+>
 
 
 ---
