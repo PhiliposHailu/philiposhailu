@@ -1,53 +1,65 @@
-# 👋 Hi, I'm [Your Name]
+# Hello There, I'm [Your Name] 👋
+> Software Engineer | Full Stack Developer | Tech Enthusiast  
 
-Welcome to my GitHub profile! 🚀  
-I'm a passionate developer who loves building, problem-solving, and learning new technologies.  
+<p align="center">
+  <img src="https://media3.giphy.com/media/kjFyZgX4rSZby/giphy.gif" height="300" alt="Cool Animation" />
+</p>
 
 ---
 
 ## 🌱 About Me
-- 🔭 Currently working on: **[Your Current Project or Focus]**  
-- 🌱 Currently learning: **[Technology/Framework/Concept]**  
-- 👯 Looking to collaborate on: **Open-source projects, side projects, etc.**  
-- 💬 Ask me about: **[Your Areas of Expertise]**  
-- ⚡ Fun fact: **[Something unique about you]**  
+- 🔭 I’m currently working on **Full-Stack Development projects**
+- 🌱 Learning **Next.js, TypeScript, and scalable backend systems**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React, Node.js, or solving algorithmic challenges**
+- ⚡ Fun fact: **I love coffee ☕ and late-night coding**
 
 ---
 
-## 🛠️ Tech Stack
-Here are some tools and technologies I work with:
-
-**Languages:**  
-`JavaScript` • `TypeScript` • `Python` • `Java` • `C++`  
-
-**Frameworks & Libraries:**  
-`React` • `Next.js` • `Node.js` • `Express` • `Spring Boot`  
-
-**Databases:**  
-`MySQL` • `PostgreSQL` • `MongoDB`  
-
-**Tools & Platforms:**  
-`Git` • `GitHub` • `Docker` • `Linux`  
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Featured Projects
-- 🔹 [**Project Name**](https://github.com/yourusername/projectname) — Short description (tech used, problem solved).  
-- 🔹 [**Another Project**](https://github.com/yourusername/anotherproject) — Short description.  
-- 🔹 [**Cool Side Project**](https://github.com/yourusername/coolproject) — Short description.  
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
-- [LinkedIn](https://linkedin.com/in/yourusername)  
-- [Portfolio Website](https://yourwebsite.com)  
-- [Twitter/X](https://twitter.com/yourusername)  
+## 🚀 Featured Projects
+- 🔹 [**Project One**](https://github.com/yourusername/project-one) — A short description of what it does.
+- 🔹 [**Project Two**](https://github.com/yourusername/project-two) — Built with React + Node.js.
+- 🔹 [**Project Three**](https://github.com/yourusername/project-three) — Something cool and fun!
 
 ---
 
