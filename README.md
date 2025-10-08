@@ -1,4 +1,4 @@
-# Hello There, I'm [Your Name] 👋
+# Hello There, I'm Philipos Hailu 👋
 > Software Engineer | Full Stack Developer | Tech Enthusiast  
 
 <p align="center" style="background-color:#8B0000; padding:20px; border-radius:12px;">
@@ -14,7 +14,6 @@
 - 🌱 Learning **Next.js, TypeScript, and scalable backend systems**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, or solving algorithmic challenges**
-- ⚡ Fun fact: **I love coffee ☕ and late-night coding**
 
 ---
 
