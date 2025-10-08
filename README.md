@@ -1,4 +1,4 @@
-# Hello There, I'm Philipos Hailu 👋
+# Hello There, I'm Philipos Hailu 🤗
 > Software Engineer | Full Stack Developer | Tech Enthusiast  
 
 <p align="center" style="background-color:#8B0000; padding:20px; border-radius:12px;">
