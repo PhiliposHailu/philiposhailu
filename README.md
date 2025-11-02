@@ -2,7 +2,7 @@
 # Hello There 🤗, I'm Philip
 > Software Engineer | Full Stack Developer | Tech Enthusiast
 <p align="center">
-![image alt](https://github.com/PhiliposHailu/philiposhailu/blob/d882c9f47d8306acc52d435efe225a85f06137b7/p.png)
+![image alt](https://github.com/PhiliposHailu/philiposhailu/raw/d882c9f47d8306acc52d435efe225a85f06137b7/p.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/philipos-hailu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philipos-hailu" height="30" width="40" /></a>
