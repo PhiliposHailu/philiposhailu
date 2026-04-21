@@ -13,15 +13,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m currently diving deep into **Next.js, Framer Motion, and Advanced React Patterns**
-- 💡 I love solving complex UI challenges and building seamless user experiences.
-- 💬 Ask me about **Frontend Architecture, Tailwind CSS, or Data Structures & Algorithms**
-- 📫 How to reach me: **[Your Email Here or LinkedIn]**
-
----
-
 ### 🛠️ Languages and Tools
 
 <div align="center">
